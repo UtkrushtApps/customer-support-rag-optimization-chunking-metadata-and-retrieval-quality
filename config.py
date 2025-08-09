@@ -1,0 +1,6 @@
+CHUNK_SIZE = 200
+CHUNK_OVERLAP = 50
+EMBED_MODEL_NAME = 'all-MiniLM-L6-v2'
+CHROMA_COLLECTION = 'support_docs_chunks'
+VECTOR_DB_HOST = 'localhost'
+VECTOR_DB_PORT = 8000
