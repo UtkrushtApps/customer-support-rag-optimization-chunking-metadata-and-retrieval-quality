@@ -1,0 +1,6 @@
+sentence-transformers
+torch
+chroma-db-client
+scikit-learn
+numpy
+pandas
